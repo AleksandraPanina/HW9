@@ -21,3 +21,4 @@ void GapNumberSum (int numberM, int numberN, int sum)
 }
 
 GapNumberSum(numberM, numberN, 0);
+
